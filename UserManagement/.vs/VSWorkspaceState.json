@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UserManagement",
+    "\\UserManagement\\Controllers",
+    "\\UserManagement\\Models",
+    "\\UserManagement\\Views",
+    "\\UserManagement\\Views\\Shared",
+    "\\UserManagement\\Views\\User"
+  ],
+  "SelectedNode": "\\UserManagement\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
