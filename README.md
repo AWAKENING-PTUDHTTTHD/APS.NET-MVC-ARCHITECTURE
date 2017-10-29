@@ -4,7 +4,6 @@
 
 Thành viên tham gia:
 * [X] **1312404** Thái Quỳnh Nhi
-* [X] **1312454** Nguyễn Thị Phượng
 * [X] **1312213** Nguyễn Duy Hoàng 
 * [X] **1312454** Phạm Quốc Hoàng 
 
