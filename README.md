@@ -1,4 +1,4 @@
-# BT-HTTTDH-1 - *aps.net architecture*
+# BT-HTTT-HD-1 - *aps.net architecture*
 
 **UserManagement**. Ứng dụng cho phép người dùng đăng kí tài khoản và xem thông tin đăng kí.
 
